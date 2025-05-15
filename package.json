@@ -1,0 +1,4 @@
+{
+  "name": "bookaphi",
+  "scripts": { "build": "vite build" }
+}
